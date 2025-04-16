@@ -23,16 +23,16 @@
 ---
 
 ### 📌 Pinned Projects
-- 📚 [[University Management System](https://github.com/yosefyakop/Unevirsity-System)]  
-- 📘 [[Library Management System](https://github.com/yosefyakop/Library-System)]
+- 📚 [University Management System](https://github.com/yosefyakop/Unevirsity-System)  
+- 📘 [Library Management System](https://github.com/yosefyakop/Library-System)
 
 > I’ll update the links above after you upload the projects.
 
 ---
 
 ### 📫 How to reach me
-- Email: [yousefmohamedyacoup@gmail.com]
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/yyacoup/)]
+- Email: yousefmohamedyacoup@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yyacoup/)
 
 ---
 
